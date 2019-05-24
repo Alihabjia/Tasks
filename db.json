@@ -1,5 +1,6 @@
 {
-   "tasks":[   
+   "tasks": [
+      { 
       "name":"Task1",
       "state":"Done",
       "duration":"4",
@@ -14,6 +15,7 @@
         "debutDate":"2019-01-02T08:30:00.782Z",
         "endDate":"2019-01-02T14:00:00.782Z",
         "collaborator":"Karam Karami"
-      }
-   ]
+     }
+    } 
+  ]
 }
