@@ -1,5 +1,5 @@
-[{
-   "tasks": 
+{
+   "tasks":[ 
       { 
       "name":"Task1",
       "state":"Done",
@@ -16,5 +16,5 @@
         "endDate":"2019-01-02T14:00:00.782Z",
         "collaborator":"Karam Karami"
     }
- }]
-
+ ]
+}
